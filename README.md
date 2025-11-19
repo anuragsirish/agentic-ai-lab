@@ -392,11 +392,13 @@ az account show
 - 🔄 **Pull Requests**: Contribute code and enhancements
 
 ### 📋 Contribution Guidelines
-Please review our [Contributing Guide](CONTRIBUTING.md) for:
-- Code style and formatting standards
-- Testing requirements and procedures
-- Pull request process and review criteria  
-- Community guidelines and expectations
+Please review our contribution documentation:
+- 🚀 **[How to Submit a PR](docs/HOW_TO_SUBMIT_PR.md)** - Quick reference guide for submitting pull requests
+- 📖 **[Contributing Guide](CONTRIBUTING.md)** - Detailed guidelines including:
+  - Code style and formatting standards
+  - Testing requirements and procedures
+  - Pull request process and review criteria  
+  - Community guidelines and expectations
 
 ---
 
