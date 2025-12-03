@@ -2,16 +2,19 @@
 azure-identity>=1.24.0
 azure-ai-projects>=1.1.0b2
 azure-ai-inference[opentelemetry]>=1.0.0b9
+azure-ai-evaluation[redteam]==1.10.0
 azure-ai-evaluation>=1.10.0
 azure-ai-contentsafety>=1.0.0
 azure-search-documents>=11.5.0
 azure-ai-ml>=1.28.0
+azure-ai-agents>=1.0.0b1
 
 # Telemetry and Monitoring  
 azure-monitor-opentelemetry>=1.6.0
 azure-core-tracing-opentelemetry>=1.0.0b12
 opentelemetry-exporter-otlp>=1.36.0
 opentelemetry-sdk>=1.36.0
+opentelemetry-instrumentation-openai-v2>=2.0b0
 
 # Jupyter and Development Tools
 jupyter>=1.1.0
@@ -26,3 +29,9 @@ dotenv
 mcp>=1.13.0
 fastmcp>=2.11.0
 
+Pillow>=10.0.0
+
+# Microsoft Agent Framework (Preview)
+agent-framework>=1.0.0b1
+agent-framework-core>=1.0.0b1
+agent-framework-azure-ai>=1.0.0b1
